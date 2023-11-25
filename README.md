@@ -13,6 +13,7 @@
 
 - Modular Design
 - First-In-First-Out algorithm
+- <br/>
 - Shortest Remaining Time First algorithm
 
 <h2>Installation</h2>
